@@ -1,0 +1,3 @@
+# @codingame/semantic-release-config &middot; [![monthly downloads](https://img.shields.io/npm/dm/@codingame/semantic-release-config)](https://www.npmjs.com/package/@codingame/semantic-release-config) [![npm version](https://img.shields.io/npm/v/@codingame/semantic-release-config.svg?style=flat)](https://www.npmjs.com/package/@codingame/semantic-release-config)
+
+Default configuration for semantic release at CodinGame
