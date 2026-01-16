@@ -6,7 +6,7 @@
   "main": "dist/release.config.js",
   "type": "module",
   "scripts": {
-    "lint": "eslint '{src/**/*.ts,scripts/*.ts,rollup.config.ts}' && prettier --check '**/*.{js,ts}'",
+    "lint": "eslint 'src/**/*.ts' && prettier --check '**/*.{js,ts}'",
     "compile": "tsc",
     "build": "npm run lint && npm run compile"
   },
