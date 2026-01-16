@@ -36,7 +36,6 @@
     "@codingame/tsconfig": "^1.1.1",
     "eslint": "^9.39.2",
     "prettier": "^3.8.0",
-    "semantic-release-monorepo": "8.0.2",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.53.0"
   }
